@@ -1,32 +1,39 @@
 ![ ](./intro.gif)
 
+### <h2 align="left">	:blossom:  Hi everyone!</h2>
 
-### <h2 align="center">Feel free to Connect 👥 with me on</h2>
-<p align="center">
+My name is Olga and I from Spain. I was born and grown up in Cádiz, but now I live in Madrid. I'm a creative and very curious person who can't stop looking for challenges and doing them. 
+I like learning new things and that's why now I decided to start a new path in technology trhough web programming :woman_technologist:. I loved it :sparkling_heart:.
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/olguita2412)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olga-rodriguez-garrucho-231152212/)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/olguiita24/)&nbsp;
-[![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:olga_1847@hotmail.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/olguiita24)
-&nbsp;
+### <h2 align="left">	:blossom:  I’m currently learning:</h2>
 
-
-</p>
+- A front-end developer bootcamp at [Adalab](https://adalab.es/).
+- CSS animations course at [Platzi](https://platzi.com).
 
 
+### <h2 align="left">	:blossom:  I’m currently working on:</h2>
 
-<!--
-**olguita2412/olguita2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Doing some challenges at [Devchallenges.io](https://devchallenges.io/challenges).
+- #100DaysOfEnglish challenge at Duolingo.
+- My portfolio.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <h2 align="left">	:blossom:  Fun facts:</h2>
+
+- I love the animals! :feet:
+- I'm addicted to DIY, especially the sewing! :sewing_needle:
+- My zodiac sign is Capricorn :capricorn:
+- I have a degree in Edification Engineering! :construction_worker:
+
+
+
+### <h2 align="left">	:blossom:  Feel free to Connect with me on:</h2>
+  
+- [Github](https://github.com/olguita2412).
+- [Linkedin](https://www.linkedin.com/in/olga-rodriguez-garrucho-231152212/).
+- [Twitter](https://twitter.com/olguiita24).
+- [Instagram](https://www.instagram.com/olguiita24/).
+- [Facebook](https://www.facebook.com/olga.rodriguezgarrucho).
+- [Mail](mailto:olga_1847@hotmail.com).
+
+
