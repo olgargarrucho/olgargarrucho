@@ -3,7 +3,7 @@
 ### <h2 align="left">	:blossom:  Hi everyone!</h2>
 
 My name is Olga and I from Spain. I was born and grown up in Cádiz, but now I live in Madrid. I'm a creative and very curious person who can't stop looking for challenges and doing them. 
-I like learning new things and that's why now I decided to start a new path in technology trhough web programming :woman_technologist:. I loved it :sparkling_heart:.
+I like learning new things and that's why now I have decided to start a new path in technology trhough web programming :woman_technologist:. I loved it :sparkling_heart:.
 
 ### <h2 align="left">	:blossom:  I’m currently learning:</h2>
 
