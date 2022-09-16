@@ -29,11 +29,9 @@ I like learning new things and that's why now I have decided to start a new path
 
 ### <h2 align="left">	:blossom:  Feel free to Connect with me on:</h2>
   
-- [Github](https://github.com/olguita2412).
-- [Linkedin](https://www.linkedin.com/in/olga-rodriguez-garrucho-231152212/).
-- [Twitter](https://twitter.com/olguiita24).
-- [Instagram](https://www.instagram.com/olguiita24/).
-- [Facebook](https://www.facebook.com/olga.rodriguezgarrucho).
+- [Github](https://github.com/olgargarrucho).
+- [Linkedin](https://www.linkedin.com/in/olgargarrucho/).
+- [Twitter](https://twitter.com/OlgaRGarrucho).
 - [Mail](mailto:olga_1847@hotmail.com).
 
 
