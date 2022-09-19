@@ -7,7 +7,7 @@ I like learning new things and that's why now I have decided to start a new path
 
 ### <h2 align="left">	:blossom:  I’m currently learning:</h2>
 
-- A front-end developer bootcamp at [Adalab](https://adalab.es/).
+- Testing course at [Udemy](https://udemy.com).
 - CSS animations course at [Platzi](https://platzi.com).
 
 
@@ -20,6 +20,7 @@ I like learning new things and that's why now I have decided to start a new path
 
 ### <h2 align="left">	:blossom:  Fun facts:</h2>
 
+- I just finished a front-end developer bootcamp at [Adalab](https://adalab.es/).
 - I love the animals! :feet:
 - I'm addicted to DIY, especially the sewing! :sewing_needle:
 - My zodiac sign is Capricorn :capricorn:
