@@ -1,4 +1,4 @@
-![ ](./intro.gif)
+![ ](./intro.png)
 
 ### <h2 align="left">🌸 Hi everyone!</h2>
 
