@@ -1,43 +1,75 @@
 ![ ](./intro.gif)
 
-### <h2 align="left">	:blossom:  Hi everyone!</h2>
+### <h2 align="left">🌸 Hi everyone!</h2>
 
-My name is Olga and I from Spain. I was born and grown up in Cádiz, but now I live in Madrid. I'm a creative and very curious person who can't stop looking for challenges and doing them. 
-I like learning new things and that's why now I have decided to start a new path in technology trhough web programming :woman_technologist:. I loved it :sparkling_heart:.
+I'm **Olga**, an **iOS Developer from Spain 🇪🇸**, originally from Cádiz and currently living in Madrid.
 
-I'm looking for my first opportunity as a front-end developer. I would love to continue learning more about it.
+I've been working professionally as an iOS developer since **2022**, building and maintaining mobile applications using **Swift, SwiftUI and UIKit**.
 
-### <h2 align="left">	:blossom:  I’m currently learning:</h2>
+I'm a creative and curious person who loves learning, solving problems and turning ideas into real products. What started as a career change into technology has become one of the things I enjoy the most: creating applications, improving user experiences and continuously learning new ways to build better software. 👩‍💻✨
 
-- Testing course at [Udemy](https://udemy.com).
-- CSS animations course at [Platzi](https://platzi.com).
+---
 
+### <h2 align="left">🌸 Tech stack</h2>
 
-### <h2 align="left">	:blossom:  I’m currently working on:</h2>
+* **Swift**
+* **SwiftUI**
+* **UIKit**
+* **MVVM · MVP · MVC · VIPER**
+* **Combine · RxSwift**
+* **Alamofire**
+* **Firebase**
+* **Core Data · Realm**
+* **StoreKit / In-App Purchases**
+* **PassKit & Apple Pay**
+* **AdMob**
+* **Unit Testing & UI Testing**
+* **Git · GitHub · Bitbucket**
 
-- Doing some challenges at [Devchallenges.io](https://devchallenges.io/challenges).
-- #100DaysOfEnglish challenge at Duolingo.
-- My portfolio.
+---
 
+### <h2 align="left">🌸 What I'm currently working on</h2>
 
-### <h2 align="left">	:blossom:  Fun facts:</h2>
+* Developing and maintaining professional **iOS applications**.
+* Migrating and improving projects for **Swift 6** and modern Swift concurrency.
+* Building my own mobile apps from idea to production.
+* Working with **Firebase, monetization, subscriptions, widgets and App Store publishing**.
+* Exploring how **AI can be integrated into real products and business tools**.
 
-- I just finished a front-end developer bootcamp at [Adalab](https://adalab.es/).
-- I love the animals! :feet:
-- I'm addicted to DIY, especially the sewing! :sewing_needle:
-- My zodiac sign is Capricorn :capricorn:
-- I have a degree in Edification Engineering! :construction_worker:
+---
 
+### <h2 align="left">🌸 Some of my projects</h2>
 
+📱 **Mi Momento**
+A mindfulness and personal wellbeing app built with SwiftUI, including daily reflections, gratitude, meditation, progress tracking, widgets and premium features.
 
-### <h2 align="left">	:blossom:  Feel free to Connect with me on:</h2>
-  
-- [Github](https://github.com/olgargarrucho).
-- [Linkedin](https://www.linkedin.com/in/olgargarrucho/).
-- [Twitter](https://twitter.com/OlgaRGarrucho).
-- [Mail](mailto:olga_1847@hotmail.com).
+🎭 **LieBusters**
+A social party game for iOS and Android with hidden roles, impostors, categories and multiplayer game mechanics.
 
+🎄 **Forever Christmas**
+A Christmas-themed mobile experience with daily content, streaks, inspiration and gamification.
 
-### 
+🎁 **Wish Gift**
+An app for creating and sharing wish lists for birthdays, Christmas and special events.
 
+---
 
+### <h2 align="left">🌸 A little more about me</h2>
+
+* 🐾 I love animals.
+* 🧵 I'm passionate about DIY and especially sewing.
+* 💡 I love creating things, whether it's an app, a design or a completely new project.
+* 🏗️ Before becoming a developer, I studied **Building Engineering**.
+* ♑ Capricorn.
+* 🚀 I'm always thinking about the next project I want to build.
+
+---
+
+### <h2 align="left">🌸 Let's connect</h2>
+
+* [GitHub](https://github.com/olgargarrucho)
+* [LinkedIn](https://www.linkedin.com/in/olgargarrucho/)
+* [Twitter / X](https://twitter.com/OlgaRGarrucho)
+* [Email](mailto:olga_1847@hotmail.com)
+
+###
